@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">cardscan</string>
+    <string name="startCamera">CaptureCardc</string>
+    <string name="scan">Scan Text</string>
+    <string name="nav_title">Card Scan</string>
+    <string name="nav_menu1">Home</string>
+    <string name="nav_menu2">Scan Card</string>
+    <string name="nav_menu3">Gallery</string>
+    <string name="nav_menu4">Logout</string>
+    <string name="nav_menu_gallery_home">HOME</string>
+    <string name="nav_menu_gallery_gallery">Gallery</string>
+    <string name="home_guide">This Application need acesses to the following \n
+         \n
+        1.)Access Your Phone Camera\n
+    2.)Acess Your Phone Contacts \n
+ \n
+         \n
+        Once , the scan is completed please check wether the data feteched is correct and \n
+        then proced to save to the contact. \n
+         \n
+This Application doesnot save the state of user.
+
+    </string>
+</resources>

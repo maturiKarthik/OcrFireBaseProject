@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "480795710203",
+    "firebase_url": "https://newcard-50db8.firebaseio.com",
+    "project_id": "newcard-50db8",
+    "storage_bucket": "newcard-50db8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480795710203:android:41451241f5aa8eeb",
+        "android_client_info": {
+          "package_name": "com.example.maturi.cardscannew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480795710203-mtaqajslq3qsjhga5goln3k64dgemsml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maturi.cardscannew",
+            "certificate_hash": "fbba83f5cf9c3c1234f507443ff7ce54a95c8f0e"
+          }
+        },
+        {
+          "client_id": "480795710203-ebbl041ciqt9v9h0i776j43nhodluaik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2uVpj1QbyB2wxiOeR1Rvuz5r7twHfkgQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480795710203-ebbl041ciqt9v9h0i776j43nhodluaik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
